@@ -1,3 +1,5 @@
+# <img src="https://raw.githubusercontent.com/cedanl/Uitnodigingsregel/main/references/logo-uitnodigingsregel.png" alt="Logo van de Uitnodigingsregel" height="40" align="right"> Uitnodigingsregel datapreparatie
+
 # Over dit project
 Deze repository bevat data-preparatiecode voor verschillende studentinformatiesystemen (SIS) ten behoeve van het project [[Uitnodigingsregel](https://github.com/cedanl/Uitnodigingsregel)].
 
